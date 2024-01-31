@@ -1,0 +1,159 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Quiz</title>
+	<link rel="stylesheet" href="/css/main.css">
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+</head>
+<style>
+
+</style>
+<title>Programming Languages</title>
+</head>
+<style>
+	.img-top{
+		max-width: 18rem;
+		max-height: 18rem;
+	}
+	.card{
+		max-width: 18rem;
+	}
+    .badge-container {
+        display: flex;
+        gap: 10px;
+		justify-content: center;
+        margin: 20px;
+    }
+    /* Add this to your existing styles or create a new style block */
+
+    .footer {
+        background-color: #343a40; /* Dark background color */
+        color: #fff; /* Text color */
+        padding: 20px 0; /* Padding for top and bottom */
+        position: static;
+        width: 100%;
+        bottom: 0;
+    }
+
+    .custom-badge {
+        padding: 10px;
+        border-radius: 8px;
+        text-decoration: none;
+        color: white;
+        font-weight: bold;
+		font-size: x-large;
+        white-space: nowrap;
+    }
+
+    .badge-easy {
+        background-color: #007bff; /* Blue for Easy */
+    }
+
+    .badge-medium {
+        background-color: #ffc107; /* Yellow for Medium */
+    }
+
+    .badge-hard {
+        background-color: #dc3545; /* Red for Hard */
+    }
+</style>
+<body>
+
+<div th:insert="Fragment/Header::Header"></div>
+<div class="container">
+	<p class="badge text-bg bg-dark text-wrap" style="font-size: x-large">This is Combination Of All Question For Quiz</p>
+</div>
+<div class="badge-container">
+	<a href="/Easy" class="badge custom-badge badge-easy">Easy</a>
+	<a href="/Medium" class="badge custom-badge badge-medium">Medium</a>
+	<a href="/Hard" class="badge custom-badge badge-hard">Hard</a>
+</div>
+
+<div class="container">
+	<!-- Card 1 - Python -->
+	<div class="card">
+		<img class="img-top" src="https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/1317246/retina_1708x683_cover-python-design-patterns-dc53d29faeb84911918f0f60d472f35d.png"  alt="Python">
+		<div class="card-content">
+			<h2>Python</h2>
+			<p>Python is a versatile, high-level programming language known for its readability and simplicity.</p>
+			<a th:href="@{/Python}">
+				View
+			</a>
+		</div>
+	</div>
+	
+	<!-- Card 2 - JavaScript -->
+	<div class="card">
+		<img src="https://bairesdev.mo.cloudinary.net/blog/2023/08/What-Is-JavaScript-Used-For.jpg?tx=w_3840,q_auto" alt="JavaScript">
+		<div class="card-content">
+			<h2>JavaScript</h2>
+			<p>JavaScript is a scripting language that enables you to create dynamically updating content.</p>
+			<a th:href="@{/JavaScript}">
+				View
+			</a>
+		</div>
+	</div>
+	
+	<!-- Card 3 - Java -->
+	<div class="card">
+		<img src="https://www.jrebel.com/sites/default/files/image/2020-05/image-blog-revel-top-java-tools.jpg" alt="Java">
+		<div class="card-content">
+			<h2>Java</h2>
+			<p>Java is a widely used, class-based, object-oriented programming language.</p>
+			<a th:href="@{/Java}">
+				View
+			</a>
+		</div>
+	</div>
+	
+	<!-- Card 4 - C++ -->
+	<div class="card">
+		<img src="data:image/jpeg;base64,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" alt="C++">
+		<div class="card-content">
+			<h2>C++</h2>
+			<p>C++ is an extension of the C programming language and is widely used for system/software development.</p>
+			<a th:href="@{/C++}">
+				View
+			</a>
+		</div>
+	</div>
+	
+	<!-- Card 5 - HTML -->
+	<div class="card">
+		<img src="https://s3.amazonaws.com/tf-nightingale/2022/12/html1.jpg" alt="HTML">
+		<div class="card-content">
+			<h2>HTML</h2>
+			<p>HTML (Hypertext Markup Language) is the standard markup language for creating web pages.</p>
+			<a th:href="@{/HTML}">
+				View
+			</a>
+		</div>
+	</div>
+	
+	<!-- Card 6 - CSS -->
+	<div class="card">
+		<img src="https://miro.medium.com/v2/resize:fit:600/1*OFsc0SD55jhi8cjo7aCA4w.jpeg" alt="CSS">
+		<div class="card-content">
+			<h2>CSS</h2>
+			<p>CSS (Cascading Style Sheets) is used for styling web pages, enhancing the visual presentation of HTML documents.</p>
+			<a th:href="@{/CSS}">
+				View
+			</a>
+		</div>
+		
+	</div>
+</div>
+<!-- Footer -->
+<footer class="footer mt-5">
+	<div class="container text-center">
+		<p>&copy; 2022 Your Quiz App</p>
+		<p>Contact us: info@example.com</p>
+		<p>Follow us: <a href="https://twitter.com/example" target="_blank">Twitter</a> | <a href="https://www.facebook.com/example" target="_blank">Facebook</a></p>
+		<p>Address: 123 Quiz Street, Cityville, Country</p>
+	</div>
+</footer>
+
+</body>
+</html>

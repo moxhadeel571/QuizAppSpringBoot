@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+	
+	<title>Add Python Quiz Question</title>
+</head>
+<body>
+
+<div class="container mt-5">
+	<h2 class="mb-4">Add Python Quiz Question</h2>
+	
+	<form action="/saveform" method="post">
+		<!-- Question -->
+		<div class="form-group">
+			<label for="question">Question:</label>
+			<textarea class="form-control" id="question" name="question" rows="3" required></textarea>
+		</div>
+		<!doctype html>
+		<!-- Answers -->
+		<div class="form-group">
+			<label>Hint for Option 1:</label>
+			<input class="form-control" type="text" id="hint1" name="options[0]">
+		</div>
+		<div class="form-group">
+			<label>Hint for Option 2:</label>
+			<input class="form-control" type="text" id="hint2" name="options[1]">
+		</div>
+		<div class="form-group">
+			<label>Hint for Option 3:</label>
+			<input class="form-control" type="text" id="hint3" name="options[2]">
+		</div>
+		<div class="form-group">
+			<label>Hint for Option 4:</label>
+			<input class="form-control" type="text" id="hint4" name="options[3]">
+		</div>
+		<!-- Add more options as needed -->
+		
+		<div class="form-group">
+			<label>Correct Answer:</label>
+			<input class="form-control" type="text" id="correctAnswer" value="correctAnswer" name="correctAnswer">
+		</div>
+		<!-- Difficulty -->
+		<div class="form-group">
+			<label for="difficulty">Difficulty:</label>
+			<select class="form-control" id="difficulty" name="difficulty" required>
+				<option value="Easy">Easy</option>
+				<option value="Medium">Medium</option>
+				<option value="Hard">Hard</option>
+			</select>
+		</div>
+		
+		<!-- Code -->
+		<div class="form-group">
+			<label for="code">Code (if any):</label>
+			<textarea class="form-control" id="code" name="code" rows="3"></textarea>
+		</div>
+		
+		<!-- Category -->
+		<div class="form-group">
+			<label for="category">Category:</label>
+			<input type="text" class="form-control" id="category" name="category" required>
+		</div>
+		
+		<button type="submit" class="btn btn-primary">Add Question</button>
+	</form>
+</div>
+
+<!-- Bootstrap JS and dependencies (jQuery) -->
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.0.7/dist/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+</body>
+</html>
