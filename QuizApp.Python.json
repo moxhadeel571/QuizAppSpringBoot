@@ -1,0 +1,1377 @@
+[{
+  "_id": {
+    "$oid": "65b9f1b788c0a11beb6f2b7b"
+  },
+  "question": "dsa dasdas",
+  "difficulty": "Easy",
+  "code": "sadas",
+  "category": "Python",
+  "correctAnswer": " adsas",
+  "options": [
+    "ads das",
+    "dsaas ",
+    " adsas",
+    " dsaasd"
+  ],
+  "_class": "com.example.quiz.Modal.QuizPythonQuestion"
+},
+{
+  "_id": {
+    "$oid": "65ba1e6388c0a11beb6f2b8c"
+  },
+  "question": "what is python",
+  "difficulty": "Easy",
+  "code": "",
+  "category": "Python",
+  "correctAnswer": "programming",
+  "options": [
+    "scripting languae",
+    "html",
+    "template",
+    "programming"
+  ],
+  "_class": "com.example.quiz.Modal.QuizPythonQuestion"
+},
+{
+  "_id": {
+    "$oid": "65ba266f88c0a11beb6f2ba3"
+  },
+  "question": "ads asdassdasdasdasdasdassdaasasd asdas das ads d asd asdadsad ad ada as asdsasdasda dasadasdas`",
+  "difficulty": "Easy",
+  "code": "das ads",
+  "category": "Python",
+  "correctAnswer": "programming",
+  "options": [
+    "dsad",
+    "html",
+    "template",
+    "programming"
+  ],
+  "_class": "com.example.quiz.Modal.QuizPythonQuestion"
+},
+{
+  "_id": {
+    "$oid": "65ba1e6388c0a11beb6f2b8d"
+  },
+  "question": "What is the output of print(3 + 5 * 2)?",
+  "difficulty": "Easy",
+  "code": "",
+  "category": "Python",
+  "correctAnswer": "13",
+  "options": [
+    "10",
+    "13",
+    "16",
+    "18"
+  ],
+  "_class": "com.example.quiz.Modal.QuizPythonQuestion"
+},
+{
+  "_id": {
+    "$oid": "65ba1e6388c0a11beb6f2b8e"
+  },
+  "question": "How do you create an empty list in Python?",
+  "difficulty": "Easy",
+  "code": "",
+  "category": "Python",
+  "correctAnswer": "myList = []",
+  "options": [
+    "myList = list()",
+    "myList = {}",
+    "myList = []",
+    "myList = [empty]"
+  ],
+  "_class": "com.example.quiz.Modal.QuizPythonQuestion"
+},
+{
+  "_id": {
+    "$oid": "65ba1e6388c0a11beb6f2b8f"
+  },
+  "question": "What is the purpose of the 'self' keyword in Python?",
+  "difficulty": "Medium",
+  "code": "",
+  "category": "Python",
+  "correctAnswer": "Refers to the instance of the class",
+  "options": [
+    "Indicates a method is private",
+    "Refers to the instance of the class",
+    "Refers to the superclass",
+    "Used to create a new instance"
+  ],
+  "_class": "com.example.quiz.Modal.QuizPythonQuestion"
+},
+{
+  "_id": {
+    "$oid": "65ba1e6388c0a11beb6f2b90"
+  },
+  "question": "What is the correct way to comment multiple lines in Python?",
+  "difficulty": "Easy",
+  "code": "",
+  "category": "Python",
+  "correctAnswer": "''' This is a multiline comment '''",
+  "options": [
+    "// This is a comment",
+    "# This is a comment",
+    "/* This is a comment */",
+    "''' This is a multiline comment '''"
+  ],
+  "_class": "com.example.quiz.Modal.QuizPythonQuestion"
+},
+{
+  "_id": {
+    "$oid": "65ba1e6388c0a11beb6f2b91"
+  },
+  "question": "Which of the following is a mutable data type in Python?",
+  "difficulty": "Medium",
+  "code": "",
+  "category": "Python",
+  "correctAnswer": "List",
+  "options": [
+    "Tuple",
+    "List",
+    "String",
+    "Set"
+  ],
+  "_class": "com.example.quiz.Modal.QuizPythonQuestion"
+},
+{
+  "_id": {
+    "$oid": "65ba1e6388c0a11beb6f2b92"
+  },
+  "question": "How do you open a file in binary mode in Python?",
+  "difficulty": "Medium",
+  "code": "",
+  "category": "Python",
+  "correctAnswer": "open('file.txt', 'rb')",
+  "options": [
+    "open('file.txt', 'r')",
+    "open('file.txt', 'wb')",
+    "open('file.txt', 'rb')",
+    "open('file.txt', 'b')"
+  ],
+  "_class": "com.example.quiz.Modal.QuizPythonQuestion"
+},
+{
+  "_id": {
+    "$oid": "65ba1e6388c0a11beb6f2b93"
+  },
+  "question": "What is the purpose of the 'pass' statement in Python?",
+  "difficulty": "Easy",
+  "code": "",
+  "category": "Python",
+  "correctAnswer": "To act as a placeholder",
+  "options": [
+    "To indicate a failed test case",
+    "To act as a placeholder",
+    "To break out of a loop",
+    "To raise an exception"
+  ],
+  "_class": "com.example.quiz.Modal.QuizPythonQuestion"
+},
+{
+  "_id": {
+    "$oid": "65ba1e6388c0a11beb6f2b94"
+  },
+  "question": "In Python, what does the 'break' statement do?",
+  "difficulty": "Easy",
+  "code": "",
+  "category": "Python",
+  "correctAnswer": "Exits the loop prematurely",
+  "options": [
+    "Skips the current iteration of the loop",
+    "Exits the loop prematurely",
+    "Continues to the next iteration of the loop",
+    "Raises an exception"
+  ],
+  "_class": "com.example.quiz.Modal.QuizPythonQuestion"
+},
+{
+  "_id": {
+    "$oid": "65ba1e6388c0a11beb6f2b95"
+  },
+  "question": "What is the output of print(list(range(1, 5))) in Python?",
+  "difficulty": "Easy",
+  "code": "",
+  "category": "Python",
+  "correctAnswer": "[1, 2, 3, 4]",
+  "options": [
+    "[1, 2, 3, 4]",
+    "(1, 2, 3, 4)",
+    "[1, 2, 3, 4, 5]",
+    "(1, 2, 3, 4, 5)"
+  ],
+  "_class": "com.example.quiz.Modal.QuizPythonQuestion"
+},
+{
+  "_id": {
+    "$oid": "65ba50b088c0a11beb6f2bb2"
+  },
+  "question": "What is Java",
+  "difficulty": "Easy",
+  "code": "",
+  "category": "Java",
+  "correctAnswer": "programming",
+  "options": [
+    "scripting languae",
+    "html",
+    "template",
+    "programming"
+  ],
+  "_class": "com.example.quiz.Modal.QuizPythonQuestion"
+},
+{
+  "_id": {
+    "$oid": "65ba1e6388c0a11beb6f2b96"
+  },
+  "question": "What is JavaScript?",
+  "difficulty": "Easy",
+  "code": "",
+  "category": "JavaScript",
+  "correctAnswer": "Scripting language",
+  "options": [
+    "Markup language",
+    "Programming language",
+    "Scripting language",
+    "Styling language"
+  ],
+  "_class": "com.example.quiz.Modal.QuizJavaScriptQuestion"
+},
+{
+  "_id": {
+    "$oid": "65ba1e6388c0a11beb6f2b97"
+  },
+  "question": "How do you declare a variable in JavaScript?",
+  "difficulty": "Easy",
+  "code": "",
+  "category": "JavaScript",
+  "correctAnswer": "var x;",
+  "options": [
+    "variable x;",
+    "var x;",
+    "x = var;",
+    "declare x;"
+  ],
+  "_class": "com.example.quiz.Modal.QuizJavaScriptQuestion"
+},
+{
+  "_id": {
+    "$oid": "65ba1e6388c0a11beb6f2b98"
+  },
+  "question": "What is the purpose of the 'addEventListener' method in JavaScript?",
+  "difficulty": "Medium",
+  "code": "",
+  "category": "JavaScript",
+  "correctAnswer": "Attach an event handler to an element",
+  "options": [
+    "Change the element's style",
+    "Append an element to the DOM",
+    "Attach an event handler to an element",
+    "Create a new element"
+  ],
+  "_class": "com.example.quiz.Modal.QuizJavaScriptQuestion"
+},
+{
+  "_id": {
+    "$oid": "65ba1e6388c0a11beb6f2b99"
+  },
+  "question": "What is the result of '2' + 2 in JavaScript?",
+  "difficulty": "Easy",
+  "code": "",
+  "category": "JavaScript",
+  "correctAnswer": "22",
+  "options": [
+    "4",
+    "'2' + 2",
+    "22",
+    "Error"
+  ],
+  "_class": "com.example.quiz.Modal.QuizJavaScriptQuestion"
+},
+{
+  "_id": {
+    "$oid": "65ba1e6388c0a11beb6f2b9a"
+  },
+  "question": "How do you create an array in JavaScript?",
+  "difficulty": "Easy",
+  "code": "",
+  "category": "JavaScript",
+  "correctAnswer": "var myArray = [];",
+  "options": [
+    "array myArray = [];",
+    "myArray = array();",
+    "var myArray = array();",
+    "var myArray = [];"
+  ],
+  "_class": "com.example.quiz.Modal.QuizJavaScriptQuestion"
+},
+{
+  "_id": {
+    "$oid": "65ba1e6388c0a11beb6f2b9b"
+  },
+  "question": "What does the 'typeof' operator do in JavaScript?",
+  "difficulty": "Medium",
+  "code": "",
+  "category": "JavaScript",
+  "correctAnswer": "Returns the data type of a variable",
+  "options": [
+    "Checks if a variable is defined",
+    "Returns the data type of a variable",
+    "Converts a variable to a string",
+    "Returns the length of a string"
+  ],
+  "_class": "com.example.quiz.Modal.QuizJavaScriptQuestion"
+},
+{
+  "_id": {
+    "$oid": "65ba1e6388c0a11beb6f2b9c"
+  },
+  "question": "What is the purpose of 'JSON.parse' in JavaScript?",
+  "difficulty": "Medium",
+  "code": "",
+  "category": "JavaScript",
+  "correctAnswer": "Parse a JSON string into an object",
+  "options": [
+    "Convert an object to a JSON string",
+    "Parse a JSON string into an object",
+    "Encode a URL",
+    "Decode a URL"
+  ],
+  "_class": "com.example.quiz.Modal.QuizJavaScriptQuestion"
+},
+{
+  "_id": {
+    "$oid": "65ba1e6388c0a11beb6f2b9d"
+  },
+  "question": "What is the 'this' keyword in JavaScript?",
+  "difficulty": "Medium",
+  "code": "",
+  "category": "JavaScript",
+  "correctAnswer": "Refers to the current object",
+  "options": [
+    "Refers to the parent object",
+    "Refers to the current function",
+    "Refers to the global object",
+    "Refers to the current object"
+  ],
+  "_class": "com.example.quiz.Modal.QuizJavaScriptQuestion"
+},
+{
+  "_id": {
+    "$oid": "65ba1e6388c0a11beb6f2b9e"
+  },
+  "question": "How do you check if a variable is null or undefined in JavaScript?",
+  "difficulty": "Easy",
+  "code": "",
+  "category": "JavaScript",
+  "correctAnswer": "if (x == null || x == undefined)",
+  "options": [
+    "if (x == null)",
+    "if (x == undefined)",
+    "if (x === null || x === undefined)",
+    "if (x == null || x == undefined)"
+  ],
+  "_class": "com.example.quiz.Modal.QuizJavaScriptQuestion"
+},
+{
+  "_id": {
+    "$oid": "65ba1e6388c0a11beb6f2b9f"
+  },
+  "question": "What does the 'async' keyword do in JavaScript?",
+  "difficulty": "Medium",
+  "code": "",
+  "category": "JavaScript",
+  "correctAnswer": "Declares an asynchronous function",
+  "options": [
+    "Declares an asynchronous function",
+    "Defines an array",
+    "Synchronously executes a function",
+    "Indicates an object is immutable"
+  ],
+  "_class": "com.example.quiz.Modal.QuizJavaScriptQuestion"
+},
+{
+  "_id": {
+    "$oid": "65ba1e6388c0a11beb6f2ba0"
+  },
+  "question": "What is Java?",
+  "difficulty": "Easy",
+  "code": "",
+  "category": "Java",
+  "correctAnswer": "Programming language",
+  "options": [
+    "Markup language",
+    "Programming language",
+    "Scripting language",
+    "Styling language"
+  ],
+  "_class": "com.example.quiz.Modal.QuizJavaQuestion"
+},
+{
+  "_id": {
+    "$oid": "65ba1e6388c0a11beb6f2ba1"
+  },
+  "question": "How do you declare a variable in Java?",
+  "difficulty": "Easy",
+  "code": "",
+  "category": "Java",
+  "correctAnswer": "int x;",
+  "options": [
+    "variable x;",
+    "int x;",
+    "x = var;",
+    "declare x;"
+  ],
+  "_class": "com.example.quiz.Modal.QuizJavaQuestion"
+},
+{
+  "_id": {
+    "$oid": "65ba1e6388c0a11beb6f2ba2"
+  },
+  "question": "What is the purpose of the 'public' keyword in Java?",
+  "difficulty": "Medium",
+  "code": "",
+  "category": "Java",
+  "correctAnswer": "Specifies that a method or class can be accessed by any other class",
+  "options": [
+    "Defines a new class",
+    "Specifies that a method or class can be accessed by any other class",
+    "Declares a constant variable",
+    "Indicates an object is immutable"
+  ],
+  "_class": "com.example.quiz.Modal.QuizJavaQuestion"
+},
+{
+  "_id": {
+    "$oid": "65ba1e6388c0a11beb6f2ba3"
+  },
+  "question": "What is the result of '5 / 2' in Java?",
+  "difficulty": "Easy",
+  "code": "",
+  "category": "Java",
+  "correctAnswer": "2",
+  "options": [
+    "2.5",
+    "2",
+    "2.0",
+    "Error"
+  ],
+  "_class": "com.example.quiz.Modal.QuizJavaQuestion"
+},
+{
+  "_id": {
+    "$oid": "65ba1e6388c0a11beb6f2ba4"
+  },
+  "question": "How do you create an array in Java?",
+  "difficulty": "Easy",
+  "code": "",
+  "category": "Java",
+  "correctAnswer": "int[] myArray = new int[5];",
+  "options": [
+    "array myArray = new array[5];",
+    "myArray = array();",
+    "int myArray = new int[];",
+    "int[] myArray = new int[5];"
+  ],
+  "_class": "com.example.quiz.Modal.QuizJavaQuestion"
+},
+{
+  "_id": {
+    "$oid": "65ba1e6388c0a11beb6f2ba5"
+  },
+  "question": "What is the 'this' keyword in Java?",
+  "difficulty": "Medium",
+  "code": "",
+  "category": "Java",
+  "correctAnswer": "Refers to the current instance of the object",
+  "options": [
+    "Refers to the parent instance of the object",
+    "Refers to the current method",
+    "Refers to the global object",
+    "Refers to the current instance of the object"
+  ],
+  "_class": "com.example.quiz.Modal.QuizJavaQuestion"
+},
+{
+  "_id": {
+    "$oid": "65ba1e6388c0a11beb6f2ba6"
+  },
+  "question": "What is the purpose of 'try-catch' in Java?",
+  "difficulty": "Medium",
+  "code": "",
+  "category": "Java",
+  "correctAnswer": "Handles exceptions",
+  "options": [
+    "Defines a loop",
+    "Handles exceptions",
+    "Creates a new thread",
+    "Declares a class"
+  ],
+  "_class": "com.example.quiz.Modal.QuizJavaQuestion"
+},
+{
+  "_id": {
+    "$oid": "65ba1e6388c0a11beb6f2ba7"
+  },
+  "question": "What does the 'super' keyword do in Java?",
+  "difficulty": "Medium",
+  "code": "",
+  "category": "Java",
+  "correctAnswer": "Refers to the superclass or parent class",
+  "options": [
+    "Calls a superclass method",
+    "Refers to the current class",
+    "Declares a superclass",
+    "Refers to the superclass or parent class"
+  ],
+  "_class": "com.example.quiz.Modal.QuizJavaQuestion"
+},
+{
+  "_id": {
+    "$oid": "65ba1e6388c0a11beb6f2ba8"
+  },
+  "question": "What is the purpose of the 'static' keyword in Java?",
+  "difficulty": "Medium",
+  "code": "",
+  "category": "Java",
+  "correctAnswer": "Declares a variable or method as belonging to the class, not instances of the class",
+  "options": [
+    "Defines a constant variable",
+    "Declares a variable or method as belonging to the class, not instances of the class",
+    "Indicates an object is immutable",
+    "Synchronously executes a method"
+  ],
+  "_class": "com.example.quiz.Modal.QuizJavaQuestion"
+},
+{
+  "_id": {
+    "$oid": "65ba1e6388c0a11beb6f2ba9"
+  },
+  "question": "What is the result of 'Math.pow(2, 3)' in Java?",
+  "difficulty": "Easy",
+  "code": "",
+  "category": "Java",
+  "correctAnswer": "8.0",
+  "options": [
+    "6",
+    "2",
+    "8.0",
+    "Error"
+  ],
+  "_class": "com.example.quiz.Modal.QuizJavaQuestion"
+},
+{
+  "_id": {
+    "$oid": "65ba1e6388c0a11beb6f2bba"
+  },
+  "question": "What is C++?",
+  "difficulty": "Easy",
+  "code": "",
+  "category": "C++",
+  "correctAnswer": "Programming language",
+  "options": [
+    "Markup language",
+    "Programming language",
+    "Scripting language",
+    "Styling language"
+  ],
+  "_class": "com.example.quiz.Modal.QuizCppQuestion"
+},
+{
+  "_id": {
+    "$oid": "65ba1e6388c0a11beb6f2bbb"
+  },
+  "question": "How do you declare a variable in C++?",
+  "difficulty": "Easy",
+  "code": "",
+  "category": "C++",
+  "correctAnswer": "int x;",
+  "options": [
+    "variable x;",
+    "int x;",
+    "x = var;",
+    "declare x;"
+  ],
+  "_class": "com.example.quiz.Modal.QuizCppQuestion"
+},
+{
+  "_id": {
+    "$oid": "65ba1e6388c0a11beb6f2bbc"
+  },
+  "question": "What is the purpose of the 'public' keyword in C++?",
+  "difficulty": "Medium",
+  "code": "",
+  "category": "C++",
+  "correctAnswer": "Specifies that a method or class can be accessed by any other class",
+  "options": [
+    "Defines a new class",
+    "Specifies that a method or class can be accessed by any other class",
+    "Declares a constant variable",
+    "Indicates an object is immutable"
+  ],
+  "_class": "com.example.quiz.Modal.QuizCppQuestion"
+},
+{
+  "_id": {
+    "$oid": "65ba1e6388c0a11beb6f2bbd"
+  },
+  "question": "What is the result of '5 / 2' in C++?",
+  "difficulty": "Easy",
+  "code": "",
+  "category": "C++",
+  "correctAnswer": "2",
+  "options": [
+    "2.5",
+    "2",
+    "2.0",
+    "Error"
+  ],
+  "_class": "com.example.quiz.Modal.QuizCppQuestion"
+},
+{
+  "_id": {
+    "$oid": "65ba1e6388c0a11beb6f2bbe"
+  },
+  "question": "How do you create an array in C++?",
+  "difficulty": "Easy",
+  "code": "",
+  "category": "C++",
+  "correctAnswer": "int myArray[5];",
+  "options": [
+    "array myArray[5];",
+    "myArray = array();",
+    "int myArray = new int[5];",
+    "int myArray[5];"
+  ],
+  "_class": "com.example.quiz.Modal.QuizCppQuestion"
+},
+{
+  "_id": {
+    "$oid": "65ba1e6388c0a11beb6f2bbf"
+  },
+  "question": "What is the 'this' pointer in C++?",
+  "difficulty": "Medium",
+  "code": "",
+  "category": "C++",
+  "correctAnswer": "Pointer to the object itself",
+  "options": [
+    "Pointer to the parent class",
+    "Pointer to the current method",
+    "Pointer to the global object",
+    "Pointer to the object itself"
+  ],
+  "_class": "com.example.quiz.Modal.QuizCppQuestion"
+},
+{
+  "_id": {
+    "$oid": "65ba1e6388c0a11beb6f2bc0"
+  },
+  "question": "What is the purpose of 'try-catch' in C++?",
+  "difficulty": "Medium",
+  "code": "",
+  "category": "C++",
+  "correctAnswer": "Handles exceptions",
+  "options": [
+    "Defines a loop",
+    "Handles exceptions",
+    "Creates a new thread",
+    "Declares a class"
+  ],
+  "_class": "com.example.quiz.Modal.QuizCppQuestion"
+},
+{
+  "_id": {
+    "$oid": "65ba1e6388c0a11beb6f2bc1"
+  },
+  "question": "What does the 'super' keyword do in C++?",
+  "difficulty": "Medium",
+  "code": "",
+  "category": "C++",
+  "correctAnswer": "Not applicable in C++",
+  "options": [
+    "Calls a superclass method",
+    "Refers to the current class",
+    "Declares a superclass",
+    "Not applicable in C++"
+  ],
+  "_class": "com.example.quiz.Modal.QuizCppQuestion"
+},
+{
+  "_id": {
+    "$oid": "65ba1e6388c0a11beb6f2bc2"
+  },
+  "question": "What is the purpose of the 'static' keyword in C++?",
+  "difficulty": "Medium",
+  "code": "",
+  "category": "C++",
+  "correctAnswer": "Declares a variable or method as belonging to the class, not instances of the class",
+  "options": [
+    "Defines a constant variable",
+    "Declares a variable or method as belonging to the class, not instances of the class",
+    "Indicates an object is immutable",
+    "Synchronously executes a method"
+  ],
+  "_class": "com.example.quiz.Modal.QuizCppQuestion"
+},
+{
+  "_id": {
+    "$oid": "65ba1e6388c0a11beb6f2bc3"
+  },
+  "question": "What is the result of 'pow(2, 3)' in C++?",
+  "difficulty": "Easy",
+  "code": "",
+  "category": "C++",
+  "correctAnswer": "8.0",
+  "options": [
+    "6",
+    "2",
+    "8.0",
+    "Error"
+  ],
+  "_class": "com.example.quiz.Modal.QuizCppQuestion"
+},
+{
+  "_id": {
+    "$oid": "65ba1e6388c0a11beb6f2bc4"
+  },
+  "question": "What does HTML stand for?",
+  "difficulty": "Easy",
+  "code": "",
+  "category": "HTML",
+  "correctAnswer": "HyperText Markup Language",
+  "options": [
+    "HyperText Markup Language",
+    "High-Level Text Management Language",
+    "Home Tool Markup Language",
+    "Hyperlink and Text Management Language"
+  ],
+  "_class": "com.example.quiz.Modal.QuizHtmlQuestion"
+},
+{
+  "_id": {
+    "$oid": "65ba1e6388c0a11beb6f2bc5"
+  },
+  "question": "Which HTML tag is used to define an unordered list?",
+  "difficulty": "Easy",
+  "code": "",
+  "category": "HTML",
+  "correctAnswer": "<ul>",
+  "options": [
+    "<ol>",
+    "<ul>",
+    "<li>",
+    "<dl>"
+  ],
+  "_class": "com.example.quiz.Modal.QuizHtmlQuestion"
+},
+{
+  "_id": {
+    "$oid": "65ba1e6388c0a11beb6f2bc6"
+  },
+  "question": "How can you make a numbered list in HTML?",
+  "difficulty": "Easy",
+  "code": "",
+  "category": "HTML",
+  "correctAnswer": "<ol>",
+  "options": [
+    "<nl>",
+    "<ul>",
+    "<li>",
+    "<ol>"
+  ],
+  "_class": "com.example.quiz.Modal.QuizHtmlQuestion"
+},
+{
+  "_id": {
+    "$oid": "65ba1e6388c0a11beb6f2bc7"
+  },
+  "question": "What does the HTML attribute 'src' stand for?",
+  "difficulty": "Easy",
+  "code": "",
+  "category": "HTML",
+  "correctAnswer": "Source",
+  "options": [
+    "Source",
+    "Script",
+    "Style",
+    "String"
+  ],
+  "_class": "com.example.quiz.Modal.QuizHtmlQuestion"
+},
+{
+  "_id": {
+    "$oid": "65ba1e6388c0a11beb6f2bc8"
+  },
+  "question": "Which HTML element is used to define the structure of an HTML document?",
+  "difficulty": "Easy",
+  "code": "",
+  "category": "HTML",
+  "correctAnswer": "<html>",
+  "options": [
+    "<head>",
+    "<document>",
+    "<structure>",
+    "<html>"
+  ],
+  "_class": "com.example.quiz.Modal.QuizHtmlQuestion"
+},
+{
+  "_id": {
+    "$oid": "65ba1e6388c0a11beb6f2bc9"
+  },
+  "question": "In HTML, what does the acronym 'CSS' stand for?",
+  "difficulty": "Easy",
+  "code": "",
+  "category": "HTML",
+  "correctAnswer": "Cascading Style Sheets",
+  "options": [
+    "Counter Strike Source",
+    "Computer Style Sheets",
+    "Cascading Style Sheets",
+    "Colorful Style Sheets"
+  ],
+  "_class": "com.example.quiz.Modal.QuizHtmlQuestion"
+},
+{
+  "_id": {
+    "$oid": "65ba1e6388c0a11beb6f2bca"
+  },
+  "question": "Which HTML tag is used to create a hyperlink?",
+  "difficulty": "Easy",
+  "code": "",
+  "category": "HTML",
+  "correctAnswer": "<a>",
+  "options": [
+    "<link>",
+    "<href>",
+    "<a>",
+    "<hlink>"
+  ],
+  "_class": "com.example.quiz.Modal.QuizHtmlQuestion"
+},
+{
+  "_id": {
+    "$oid": "65ba1e6388c0a11beb6f2bcb"
+  },
+  "question": "What does the HTML element 'em' represent?",
+  "difficulty": "Easy",
+  "code": "",
+  "category": "HTML",
+  "correctAnswer": "Emphasized text",
+  "options": [
+    "End markup",
+    "Emphasized text",
+    "Encoded multimedia",
+    "Element margin"
+  ],
+  "_class": "com.example.quiz.Modal.QuizHtmlQuestion"
+},
+{
+  "_id": {
+    "$oid": "65ba1e6388c0a11beb6f2bcc"
+  },
+  "question": "Which HTML attribute is used to define inline styles?",
+  "difficulty": "Easy",
+  "code": "",
+  "category": "HTML",
+  "correctAnswer": "style",
+  "options": [
+    "font",
+    "class",
+    "style",
+    "css"
+  ],
+  "_class": "com.example.quiz.Modal.QuizHtmlQuestion"
+},
+{
+  "_id": {
+    "$oid": "65ba1e6388c0a11beb6f2bcd"
+  },
+  "question": "What is the purpose of the HTML 'meta' tag?",
+  "difficulty": "Easy",
+  "code": "",
+  "category": "HTML",
+  "correctAnswer": "Metadata about the HTML document",
+  "options": [
+    "Media content",
+    "Meta-analysis",
+    "Markup error",
+    "Metadata about the HTML document"
+  ],
+  "_class": "com.example.quiz.Modal.QuizHtmlQuestion"
+},
+{
+  "_id": {
+    "$oid": "65ba609dd96a422d24f84edb"
+  },
+  "_id__$oid": "65ba1e6388c0a11beb6f2bcd1",
+  "question": "What does HTML stand for?",
+  "difficulty": "Easy",
+  "category": "HTML",
+  "correctAnswer": "HyperText Markup Language",
+  "options": [
+    "HyperText Markup Language",
+    "High-Level Text Management Language",
+    "Home Tool Markup Language",
+    "Hyperlink and Text Management Language"
+  ],
+  "_class": "com.example.quiz.Modal.QuizHtmlQuestion"
+},
+{
+  "_id": {
+    "$oid": "65ba609dd96a422d24f84edc"
+  },
+  "_id__$oid": "65ba1e6388c0a11beb6f2bcd2",
+  "question": "Which HTML tag is used to define an unordered list?",
+  "difficulty": "Easy",
+  "category": "HTML",
+  "options": [
+    "<ol>",
+    "<ul>",
+    "<li>",
+    "<dl>"
+  ],
+  "correctAnswer": "<ul>",
+  "_class": "com.example.quiz.Modal.QuizHtmlQuestion"
+},
+{
+  "_id": {
+    "$oid": "65ba609dd96a422d24f84edd"
+  },
+  "_id__$oid": "65ba1e6388c0a11beb6f2bcd3",
+  "question": "How can you make a numbered list in HTML?",
+  "difficulty": "Easy",
+  "category": "HTML",
+  "correctAnswer": "<ol>",
+  "options": [
+    "<nl>",
+    "<ul>",
+    "<li>",
+    "<ol>"
+  ],
+  "_class": "com.example.quiz.Modal.QuizHtmlQuestion"
+},
+{
+  "_id": {
+    "$oid": "65ba609dd96a422d24f84ede"
+  },
+  "_id__$oid": "65ba1e6388c0a11beb6f2bcd4",
+  "question": "What does the HTML attribute 'src' stand for?",
+  "difficulty": "Easy",
+  "category": "HTML",
+  "correctAnswer": "Source",
+  "options": [
+    "Source",
+    "Script",
+    "Style",
+    "String"
+  ],
+  "_class": "com.example.quiz.Modal.QuizHtmlQuestion"
+},
+{
+  "_id": {
+    "$oid": "65ba609dd96a422d24f84edf"
+  },
+  "_id__$oid": "65ba1e6388c0a11beb6f2bcd5",
+  "question": "Which HTML element is used to define the structure of an HTML document?",
+  "difficulty": "Easy",
+  "category": "HTML",
+  "correctAnswer": "<html>",
+  "options": [
+    "<head>",
+    "<document>",
+    "<structure>",
+    "<html>"
+  ],
+  "_class": "com.example.quiz.Modal.QuizHtmlQuestion"
+},
+{
+  "_id": {
+    "$oid": "65ba609dd96a422d24f84ee0"
+  },
+  "_id__$oid": "65ba1e6388c0a11beb6f2bcd6",
+  "question": "In HTML, what does the acronym 'CSS' stand for?",
+  "difficulty": "Easy",
+  "category": "HTML",
+  "correctAnswer": [
+    "Cascading Style Sheets",
+    "Counter Strike Source",
+    "Computer Style Sheets",
+    "Cascading Style Sheets",
+    "Colorful Style Sheets"
+  ],
+  "_class": "com.example.quiz.Modal.QuizHtmlQuestion"
+},
+{
+  "_id": {
+    "$oid": "65ba609dd96a422d24f84ee1"
+  },
+  "_id__$oid": "65ba1e6388c0a11beb6f2bcd7",
+  "question": "Which HTML tag is used to create a hyperlink?",
+  "difficulty": "Easy",
+  "category": "HTML",
+  "correctAnswer": [
+    "<a>",
+    "<link>",
+    "<href>",
+    "<a>",
+    "<hlink>"
+  ],
+  "_class": "com.example.quiz.Modal.QuizHtmlQuestion"
+},
+{
+  "_id": {
+    "$oid": "65ba609dd96a422d24f84ee2"
+  },
+  "_id__$oid": "65ba1e6388c0a11beb6f2bcd8",
+  "question": "What does the HTML element 'em' represent?",
+  "difficulty": "Easy",
+  "category": "HTML",
+  "correctAnswer": "Emphasized text",
+  "options": [
+    "End markup",
+    "Emphasized text",
+    "Encoded multimedia",
+    "Element margin"
+  ],
+  "_class": "com.example.quiz.Modal.QuizHtmlQuestion"
+},
+{
+  "_id": {
+    "$oid": "65ba609dd96a422d24f84ee3"
+  },
+  "_id__$oid": "65ba1e6388c0a11beb6f2bcd9",
+  "question": "Which HTML attribute is used to define inline styles?",
+  "difficulty": "Easy",
+  "category": "HTML",
+  "correctAnswer": "style",
+  "options": [
+    "font",
+    "class",
+    "style",
+    "css"
+  ],
+  "_class": "com.example.quiz.Modal.QuizHtmlQuestion"
+},
+{
+  "_id": {
+    "$oid": "65ba609dd96a422d24f84ee4"
+  },
+  "_id__$oid": "65ba1e6388c0a11beb6f2bcda",
+  "question": "What is the purpose of the HTML 'meta' tag?",
+  "difficulty": "Easy",
+  "category": "HTML",
+  "correctAnswer": "Metadata about the HTML document",
+  "options": [
+    "Media content",
+    "Meta-analysis",
+    "Markup error",
+    "Metadata about the HTML document"
+  ],
+  "_class": "com.example.quiz.Modal.QuizHtmlQuestion"
+},
+{
+  "_id": {
+    "$oid": "65ba79a9ad3fcc8ec4995046"
+  },
+  "_id/$oid": "65ba1e6388c0a11beb6f2bcdb",
+  "question": "What does CSS stand for?",
+  "difficulty": "Easy",
+  "category": "CSS",
+  "correctAnswer": "Cascading Style Sheets",
+  "options": [
+    "Computer Style Sheets",
+    "Creative Style Sheets",
+    "Colorful Style Sheets",
+    "Cascading Style Sheets"
+  ],
+  "_class": "com.example.quiz.Modal.QuizCssQuestion"
+},
+{
+  "_id": {
+    "$oid": "65ba79a9ad3fcc8ec4995047"
+  },
+  "_id/$oid": "65ba1e6388c0a11beb6f2bcdc",
+  "question": "Which CSS property is used to change the text color of an element?",
+  "difficulty": "Easy",
+  "category": "CSS",
+  "correctAnswer": "color",
+  "options": [
+    "font-color",
+    "text-color",
+    "color",
+    "style"
+  ],
+  "_class": "com.example.quiz.Modal.QuizCssQuestion"
+},
+{
+  "_id": {
+    "$oid": "65ba79a9ad3fcc8ec4995048"
+  },
+  "_id/$oid": "65ba1e6388c0a11beb6f2bcdd",
+  "question": "What is the purpose of the CSS 'margin' property?",
+  "difficulty": "Easy",
+  "category": "CSS",
+  "correctAnswer": "Specifies the space around an element",
+  "options": [
+    "Specifies the space around an element",
+    "Sets the background color",
+    "Defines the width of an element",
+    "Controls the text alignment"
+  ],
+  "_class": "com.example.quiz.Modal.QuizCssQuestion"
+},
+{
+  "_id": {
+    "$oid": "65ba79a9ad3fcc8ec4995049"
+  },
+  "_id/$oid": "65ba1e6388c0a11beb6f2bcde",
+  "question": "Which CSS selector is used to select all elements?",
+  "difficulty": "Easy",
+  "category": "CSS",
+  "correctAnswer": "*",
+  "options": [
+    ".",
+    "#",
+    "*",
+    "$"
+  ],
+  "_class": "com.example.quiz.Modal.QuizCssQuestion"
+},
+{
+  "_id": {
+    "$oid": "65ba79a9ad3fcc8ec499504a"
+  },
+  "_id/$oid": "65ba1e6388c0a11beb6f2bcdf",
+  "question": "What does the CSS property 'font-size' define?",
+  "difficulty": "Easy",
+  "category": "CSS",
+  "correctAnswer": "The size of the font",
+  "options": [
+    "The style of the font",
+    "The color of the font",
+    "The size of the font",
+    "The family of the font"
+  ],
+  "_class": "com.example.quiz.Modal.QuizCssQuestion"
+},
+{
+  "_id": {
+    "$oid": "65ba79a9ad3fcc8ec499504b"
+  },
+  "_id/$oid": "65ba1e6388c0a11beb6f2bce0",
+  "question": "In CSS, what does the 'float' property do?",
+  "difficulty": "Easy",
+  "category": "CSS",
+  "correctAnswer": "Specifies how an element should float",
+  "options": [
+    "Increases the size of the font",
+    "Aligns text to the left",
+    "Specifies how an element should float",
+    "Adds a shadow to the element"
+  ],
+  "_class": "com.example.quiz.Modal.QuizCssQuestion"
+},
+{
+  "_id": {
+    "$oid": "65ba79a9ad3fcc8ec499504c"
+  },
+  "_id/$oid": "65ba1e6388c0a11beb6f2bce1",
+  "question": "Which CSS property is used for changing the background color of an element?",
+  "difficulty": "Easy",
+  "category": "CSS",
+  "correctAnswer": "background-color",
+  "options": [
+    "color",
+    "bgcolor",
+    "background-color",
+    "background"
+  ],
+  "_class": "com.example.quiz.Modal.QuizCssQuestion"
+},
+{
+  "_id": {
+    "$oid": "65ba79a9ad3fcc8ec499504d"
+  },
+  "_id/$oid": "65ba1e6388c0a11beb6f2bce2",
+  "question": "What is the purpose of the CSS 'padding' property?",
+  "difficulty": "Easy",
+  "category": "CSS",
+  "correctAnswer": "Specifies the space inside an element",
+  "options": [
+    "Adds space between elements",
+    "Specifies the space inside an element",
+    "Sets the border of an element",
+    "Controls the element's width"
+  ],
+  "_class": "com.example.quiz.Modal.QuizCssQuestion"
+},
+{
+  "_id": {
+    "$oid": "65ba79a9ad3fcc8ec499504e"
+  },
+  "_id/$oid": "65ba1e6388c0a11beb6f2bce3",
+  "question": "Which CSS property is used to control the font family of an element?",
+  "difficulty": "Easy",
+  "category": "CSS",
+  "correctAnswer": "font-family",
+  "options": [
+    "font-family",
+    "font-style",
+    "font-type",
+    "font-variant"
+  ],
+  "_class": "com.example.quiz.Modal.QuizCssQuestion"
+},
+{
+  "_id": {
+    "$oid": "65ba79a9ad3fcc8ec499504f"
+  },
+  "_id/$oid": "65ba1e6388c0a11beb6f2bce4",
+  "question": "What is the purpose of the CSS 'border' property?",
+  "difficulty": "Easy",
+  "category": "CSS",
+  "correctAnswer": "Specifies the border properties in one declaration",
+  "options": [
+    "Adds a shadow around an element",
+    "Defines the width of the border",
+    "Specifies the border properties in one declaration",
+    "Sets the border color"
+  ],
+  "_class": "com.example.quiz.Modal.QuizCssQuestion"
+},
+{
+  "_id": {
+    "$oid": "65ba1e6388c0a11beb6f2122"
+  },
+  "question": "What is a generator in Python?",
+  "difficulty": "Hard",
+  "code": "",
+  "category": "Python",
+  "correctAnswer": "A function that produces a sequence of results",
+  "options": [
+    "A programming language",
+    "A function that produces a sequence of results",
+    "A Python module for data analysis",
+    "A data structure in Python"
+  ],
+  "_class": "com.example.quiz.Modal.QuizPythonQuestion"
+},
+{
+  "_id": {
+    "$oid": "65ba1e6388c0a11beb6f2b12"
+  },
+  "question": "What is a closure in JavaScript?",
+  "difficulty": "Hard",
+  "code": "",
+  "category": "JavaScript",
+  "correctAnswer": "A function that has access to its own scope, the outer function's scope, and the global scope",
+  "options": [
+    "A built-in JavaScript function",
+    "A function that closes the browser window",
+    "A function that has access to its own scope, the outer function's scope, and the global scope",
+    "A method for handling asynchronous operations"
+  ],
+  "_class": "com.example.quiz.Modal.QuizJavaScriptQuestion"
+},
+{
+  "_id": {
+    "$oid": "65ba1e6388c0a11beb6f3b8f"
+  },
+  "question": "Explain the event delegation in JavaScript.",
+  "difficulty": "Hard",
+  "code": "",
+  "category": "JavaScript",
+  "correctAnswer": "The process of using a single event listener to manage all the events for a specific type on multiple elements",
+  "options": [
+    "The process of handling asynchronous events",
+    "The process of binding events to specific elements",
+    "The process of using a single event listener to manage all the events for a specific type on multiple elements",
+    "The process of preventing default browser events"
+  ],
+  "_class": "com.example.quiz.Modal.QuizJavaScriptQuestion"
+},
+{
+  "_id": {
+    "$oid": "65ba1e6388c0111beb6f2b90"
+  },
+  "question": "What is the purpose of the 'transient' keyword in Java?",
+  "difficulty": "Hard",
+  "code": "",
+  "category": "Java",
+  "correctAnswer": "To indicate that a field should not be serialized",
+  "options": [
+    "To define a transient variable",
+    "To indicate that a field should not be serialized",
+    "To specify a variable as constant",
+    "To define a volatile variable"
+  ],
+  "_class": "com.example.quiz.Modal.QuizJavaQuestion"
+},
+{
+  "_id": {
+    "$oid": "65ba1e6188c0a11beb6f2b91"
+  },
+  "question": "Explain the Observer design pattern in Java.",
+  "difficulty": "Hard",
+  "code": "",
+  "category": "Java",
+  "correctAnswer": "A behavioral design pattern where an object, known as the subject, maintains a list of dependents, called observers, that are notified of state changes",
+  "options": [
+    "A design pattern for creating objects",
+    "A structural design pattern for organizing classes",
+    "A behavioral design pattern where an object, known as the subject, maintains a list of dependents, called observers, that are notified of state changes",
+    "A design pattern for handling exceptions"
+  ],
+  "_class": "com.example.quiz.Modal.QuizJavaQuestion"
+},
+{
+  "_id": {
+    "$oid": "65ba126388c0a11beb6f2b92"
+  },
+  "question": "What is a smart pointer in C++?",
+  "difficulty": "Hard",
+  "code": "",
+  "category": "C++",
+  "correctAnswer": "An object that acts like a pointer but provides additional features such as automatic memory management",
+  "options": [
+    "A memory management tool",
+    "A built-in C++ function",
+    "An object that acts like a pointer but provides additional features such as automatic memory management",
+    "A type of loop in C++"
+  ],
+  "_class": "com.example.quiz.Modal.QuizCppQuestion"
+},
+{
+  "_id": {
+    "$oid": "65b21e6388c0a11beb6f2b93"
+  },
+  "question": "Explain the Rule of Three in C++.",
+  "difficulty": "Hard",
+  "code": "",
+  "category": "C++",
+  "correctAnswer": "A guideline for defining custom copy constructor, copy assignment operator, and destructor in classes managing resources",
+  "options": [
+    "A rule for defining naming conventions",
+    "A rule for writing efficient code",
+    "A guideline for defining custom copy constructor, copy assignment operator, and destructor in classes managing resources",
+    "A rule for handling exceptions"
+  ],
+  "_class": "com.example.quiz.Modal.QuizCppQuestion"
+},
+{
+  "_id": {
+    "$oid": "6512a1e388c0a11beb6f2b94"
+  },
+  "question": "What is the purpose of the 'DOCTYPE' declaration in HTML?",
+  "difficulty": "Hard",
+  "code": "",
+  "category": "HTML",
+  "correctAnswer": "To specify the HTML version and document type",
+  "options": [
+    "To define the title of the HTML document",
+    "To include external CSS files",
+    "To specify the HTML version and document type",
+    "To create a link to another webpage"
+  ],
+  "_class": "com.example.quiz.Modal.QuizHtmlQuestion"
+}]
